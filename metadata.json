@@ -1,0 +1,6 @@
+{
+  "name": "VocoLive",
+  "description": "VocoLive is an interactive live voice chat prototype, budget calculator, and feature simulator designed for real-time Agora/Zegocloud voice streaming, virtual gifting, reseller system, and management roles.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
